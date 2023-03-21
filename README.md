@@ -1,6 +1,8 @@
 # learning-nlp-semantic-similarity
 Library to accompany my Medium post about learning to implement NLP, specifically semantic similarity. 
 
+https://medium.com/@tanner.overcash/semantic-similarity-calculations-using-nlp-and-python-a-soft-introduction-1f31df965e40
+
 ## Setup ##
 
 If you're using an Apple Silicon Mac, there are a few pre-requisites needed to run the huggingface libraries - Rust and cmake. I'm using Pyenv for this projects environment.
