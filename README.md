@@ -17,6 +17,7 @@ Use Homebrew to install cmake.
 
 Restart your terminal.
 
+
 Install Python:
 
     pyenv install 3.11.1
